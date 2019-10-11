@@ -2,7 +2,7 @@
 $header = <<<EOF
 This file is part of the jsom/weather.
 
-(c) Jsom <775480484@qq.com>
+(c) Jsom169 <775480484@qq.com>
 
 This source file is subject to the MIT license that is bundled.
 EOF;
