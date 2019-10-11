@@ -1,0 +1,28 @@
+{
+    "name": "Jsom\/weather",
+    "description": "A weather SDK.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jsom",
+            "email": "775480484@qq.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^6.3",
+        "phpunit/phpunit": "^7.0",
+        "mockery/mockery": "^1.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Jsom\\Weather\\": "./src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Jsom\\Weather\\ServiceProvider"
+            ]
+        }
+    }
+}
