@@ -1,14 +1,14 @@
 <?php
 
-namespace Jsom169\Weather\Tests;
+namespace Jsoq\Weather\Tests;
 
 use GuzzleHttp\Client;
 use GuzzleHttp\ClientInterface;
 use GuzzleHttp\Psr7\Response;
 use Mockery\Matcher\AnyArgs;
-use Jsom169\Weather\Exceptions\HttpException;
-use Jsom169\Weather\Exceptions\InvalidArgumentException;
-use Jsom169\Weather\Weather;
+use Jsoq\Weather\Exceptions\HttpException;
+use Jsoq\Weather\Exceptions\InvalidArgumentException;
+use Jsoq\Weather\Weather;
 use PHPUnit\Framework\TestCase;
 
 

@@ -1,6 +1,6 @@
 <?php
 
-namespace Jsom169\Weather;
+namespace Jsoq\Weather;
 
 class ServiceProvider extends \Illuminate\Support\ServiceProvider
 {

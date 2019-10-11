@@ -1,9 +1,9 @@
 <?php
-namespace Jsom169\Weather;
+namespace Jsoq\Weather;
 
 use GuzzleHttp\Client;
-use Jsom169\Weather\Exceptions\HttpException;
-use Jsom169\Weather\Exceptions\InvalidArgumentException;
+use Jsoq\Weather\Exceptions\HttpException;
+use Jsoq\Weather\Exceptions\InvalidArgumentException;
 
 class Weather
 {

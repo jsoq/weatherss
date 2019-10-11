@@ -1,6 +1,6 @@
 <?php
 
-namespace Jsom169\Weather\Exceptions;
+namespace Jsoq\Weather\Exceptions;
 
 class Exception extends \Exception
 {
